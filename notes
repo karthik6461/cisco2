@@ -61,4 +61,4 @@ Spring Boot based
 
 20-25 microservices , rabbitmq
 
-Netflix zoo gateway
+Netflix zuul gateway
