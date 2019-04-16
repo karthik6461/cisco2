@@ -90,3 +90,24 @@ https://wwwin-github.cisco.com/AS-CADI-Collaboration/epsilon
 AD Group
 
 CADI-Team 
+
+
+
+LAB linux boxes
+
+from Krishnan Ramaswamy (Cisco) to Everyone:    4:28  PM
+ 
+Training VM 1  10.122.32.146 
+ 
+                                                CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+                                                CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+
+
+Training VM 1  10.122.32.146  root/C1sc0123
+			CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+			CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+			 
+			Linux Credentials: root/C1sc0123
+			DB Instance: orcl.cisco.com
+			DB sys dba credentials: sys/oracle
+
