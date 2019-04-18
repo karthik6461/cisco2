@@ -82,3 +82,28 @@ cucm_ddl.sql
 
 cuc_ddl.sql
 
+
+epsilon deployment notes
+
+Informix client
+
+CUC is phone middleware for cisco
+
+Informix is database used by CUC 
+
+informix comes with the VM
+
+[because legacy system already had it]
+
+[a new VM will not have informix]
+
+/usr/lib/jvm/jre/ext
+
+jdbc-odbc.jar
+
+lib/security
+
+ls -al cacerts 
+
+Install Ansible
+
