@@ -1,0 +1,84 @@
+Training VM 1  10.122.32.146 
+ 
+                                                CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+                                                CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+
+
+Training VM 1  10.122.32.146  root/C1sc0123
+			CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+			CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+			 
+			Linux Credentials: root/C1sc0123
+			DB Instance: orcl.cisco.com
+			DB sys dba credentials: sys/oracle
+
+
+
+SQL Developer
+
+See email image
+
+
+https://confluence-eng-rtp1.cisco.com/conf/pages/viewpage.action?pageId=82482540
+
+
+Who owns what?
+
+https://confluence-eng-rtp1.cisco.com/conf/pages/viewpage.action?spaceKey=CADI&title=RTP+Lab+Current+Assignments
+
+
+Cwm123$ - Oracle password for CWM_USER
+
+
+
+
+
+
+systemctl stop tomcat
+cd etc.d
+ps -ef 
+grep --color-auto java
+
+old system is installed
+ls /data/Cisco
+
+mkdir oldCWM
+mv CWM/oldCWM
+
+mv cs.zip oldCWM/
+
+
+mv config-server oldCWM/
+
+microservices jar files, db scripts, installation scripts
+
+and start installing
+
+mkdir epsilon 
+cd epsilon
+
+
+scp epsilondbscripts.zip
+
+
+
+db side
+
+mkdir /data/Cisco
+mkdir epsilon
+
+
+db scripts
+
+CWMDatabaseDDL-oracle.sql
+
+BOFA
+
+CWMPreload-oracle.sql 
+
+in that order
+
+cucm_ddl.sql
+
+cuc_ddl.sql
+
