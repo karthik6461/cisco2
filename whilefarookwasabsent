@@ -1,0 +1,47 @@
+systemctl stop tomcat
+cd etc.d
+ps -ef 
+grep --color-auto java
+
+old system is installed
+ls /data/Cisco
+
+mkdir oldCWM
+mv CWM/oldCWM
+
+mv cs.zip oldCWM/
+
+
+mv config-server oldCWM/
+
+microservices jar files, db scripts, installation scripts
+
+and start installing
+
+mkdir epsilon 
+cd epsilon
+
+
+scp epsilondbscripts.zip
+
+
+
+db side
+
+mkdir /data/Cisco
+mkdir epsilon
+
+
+db scripts
+
+CWMDatabaseDDL-oracle.sql
+
+BOFA
+
+CWMPreload-oracle.sql 
+
+in that order
+
+cucm_ddl.sql
+
+cuc_ddl.sql
