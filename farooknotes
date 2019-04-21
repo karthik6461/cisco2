@@ -28,3 +28,18 @@ Lucidchart
 
 karthik6461@gmail.com
 deepika1
+
+
+Training VM 1  10.122.32.146 
+ 
+                                                CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+                                                CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+
+
+Training VM 1  10.122.32.146  root/C1sc0123
+			CWM-BAC-TRG-01.cisco.com – 10.122.32.146
+			CWM-BAC-TRGDB-01.cisco.com - 10.122.32.147
+			 
+			Linux Credentials: root/C1sc0123
+			DB Instance: orcl.cisco.com
+			DB sys dba credentials: sys/oracle
