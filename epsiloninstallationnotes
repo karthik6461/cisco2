@@ -107,3 +107,14 @@ ls -al cacerts
 
 Install Ansible
 
+
+
+ssh key gen command
+   ssh-keygen [I used paraphrase C1sc0123]
+ssh-copy-id [run this command]
+install ansible locally [2 steps]
+get epsilon-deployment.zip
+
+hosts file.. make it as 'rtp' and proper 'ip address'
+
+scp root@cwm-bac-trg-01:/root/epsilon-deployment.zip .
