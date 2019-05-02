@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=/Users/karhikk/Downloads/JmxMBeanAnnotation-1.0.1.jar -DgroupId=com.cisco.custom -DartifactId=JmxMBeanAnnotation -Dversion=1.0.1 -Dpackaging=jar
