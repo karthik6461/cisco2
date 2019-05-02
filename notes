@@ -138,3 +138,13 @@ https://confluence-eng-rtp1.cisco.com/conf/pages/viewpage.action?spaceKey=CADI&t
 
 
 https://wwwin-github.cisco.com/AS-BAC
+
+
+1) config server -ms
+2) oauth  - ms
+3) registry -ms
+4) data services - ms
+
+
+
+nohup java -Xmx1024M -jar  &
