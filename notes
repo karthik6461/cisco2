@@ -158,3 +158,10 @@ http://localhost:12345/cwm/test/h2-console
 
 Change jdbc url to : for in memory version
 jdbc:h2:mem:testdb
+
+
+ <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
