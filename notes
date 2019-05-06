@@ -151,3 +151,8 @@ nohup java -Xmx1024M -jar  &
 
 
 https://wwwin-github.cisco.com/AS-CADI-COLLABORATION/hsm_simulator
+
+
+http://localhost:12345/cwm/test/h2-console
+
+jdbc:h2:mem:testdb
