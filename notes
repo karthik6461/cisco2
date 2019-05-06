@@ -155,4 +155,6 @@ https://wwwin-github.cisco.com/AS-CADI-COLLABORATION/hsm_simulator
 
 http://localhost:12345/cwm/test/h2-console
 
+
+Change jdbc url to : for in memory version
 jdbc:h2:mem:testdb
