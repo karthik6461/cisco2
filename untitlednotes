@@ -1,0 +1,59 @@
+1) Local laptop setup
+2) Lab setup
+3) minimal monitoring
+
+
+scp epsilon-deployment.zip root@cwm-bac-trg-01:/data/Cisco/epsilon/tmp
+
+%s/search_string/replacement_string/g
+
+
+/Users/karhikk/Desktop/csc/epsilon/library/engci-maven-master.cisco.com/artifactory/cwm-epsilon-release/cwm/epsilon/1.1.0/jars
+
+
+
+cp: /Users/karhikk/Desktop/csc/epsilon/cwm-deployer/epsilon-deployment/artifacts/config-server/config-server-0.1.1-SNAPSHOT.jar: No such file or directory
+
+
+
+
+sudo keytool -import -trustcacerts -keystore /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/security/cacerts -storepass changeit -noprompt -alias tomcat -file ~/Downloads/localhost.cer
+
+
+
+epsilon deployment notes
+
+Informix client
+
+CUC is phone middleware for cisco
+
+Informix is database used by CUC 
+
+informix comes with the VM
+
+[because legacy system already had it]
+
+[a new VM will not have informix]
+
+/usr/lib/jvm/jre/ext
+
+jdbc-odbc.jar
+
+lib/security
+
+ls -al cacerts 
+
+Install Ansible
+
+C1sc0123
+
+
+
+1) config server -ms
+2) registry  - ms
+3) oauth -ms
+4) data services - ms  cwm-data-service
+
+
+
+nohup java -Xmx1024M -jar  &
