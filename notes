@@ -177,3 +177,14 @@ CUCM
 
 IP = 10.122.32.166 , version = 10.5 , admin/rtpR0bot
 
+
+
+10.126.80.44
+(schema account)
+username : cwm_dev_03 (cwm_schema)
+password : Cwm123$
+SID : orcl
+(login account)
+username : cwm_user
+password : Cwm123$
+SID : orcl
