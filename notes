@@ -188,3 +188,20 @@ SID : orcl
 username : cwm_user
 password : Cwm123$
 SID : orcl
+
+
+In POSTMAN settings -- SSL disable
+
+To get New Token
+
+Client Credentials
+
+OAuth 2
+
+clientId
+
+secret
+
+'Send as Basic Auth header'
+
+Get New Token and then Use token
