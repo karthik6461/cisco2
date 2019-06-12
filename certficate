@@ -6,3 +6,9 @@
  
  
  keytool -genkey -alias tomcat -keyalg RSA -keysize 2048  -validity 700 -keypass configServer -storepass configServer -keystore ssl-server.jks
+ 
+ 
+ 
+ 
+ 
+ 
