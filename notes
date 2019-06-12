@@ -212,3 +212,8 @@ Paystub :
  
  
  https://github.com/Netflix/eureka/wiki/Eureka-REST-operations
+ 
+ 
+ Eureka
+ 
+ https://{hostIp}:8761
