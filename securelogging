@@ -9,3 +9,15 @@ user[userid]
 Data controller
 
 Logger
+
+
+
+
+The identity of the account accessing the system. [hotname of the caller]
+Date and local time zone (or UTC).
+Authentication method: Local, SAML, OAuth
+System name generating the log
+Log recording system name
+Source IP address
+Port, where available
+Protocol, where available
