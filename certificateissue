@@ -1,0 +1,37 @@
+  503  keytool -list -v -keystore cacerts -storepass configServer
+  504   keytool -list -v -keystore cacerts -storepass configServer
+  505   keytool -list -v -keystore cacerts -storepass changeit
+  506   keytool -list -v -keystore cacerts -storepass changeit | grep tomcat
+  507   keytool -list -v -keystore cacerts -storepass changeit
+  508  cd /Users/karhikk/Downloads/w2/epsilon-develop/registry
+  509  ls
+  510  mvn clean spring-boot:run
+  511  cp ~/Desktop/ssl-server.jks config/
+  512  cd ../oauth-server/
+  513  cp ~/Desktop/ssl-server.jks config/
+  514  cd ../cwm-southbound-gateway/
+  515  cp ~/Desktop/ssl-server.jks config/
+  516  history
+(base) KARHIKK-M-844N:cwm-southbound-gatew
+
+
+https://confluence-eng-rtp1.cisco.com/conf/pages/viewpage.action?spaceKey=CADI&title=TLS+support
+
+  605  Keytool -storepasswd -keystore cacerts
+  606  cd /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/security
+  607  eytool -storepasswd -keystore cacerts
+  608  keytool -storepasswd -keystore cacerts
+  609  keytool -storepasswd -keystore cacerts
+  610  echo $PATH
+  611  ls /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/bin
+  612  vi ~/.bash_profile 
+  613  history
+  
+  
+  
+  
+  IN CONFIG-server
+  
+  boostrap and application yml [ changeit ]
+  
+  and config-server config of each microservice  [changeit]
