@@ -220,3 +220,25 @@ Paystub :
 
 
 https://confluence-eng-rtp1.cisco.com/conf/display/CADI/TLS+support
+
+
+spring:
+  zipkin:
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+  jpa:
+    database: oracle
+    database-platform: org.hibernate.dialect.Oracle10gDialect
+    properties:
+      hibernate.jdbc.batch_size: 5000
+      hibernate.default_schema: cwm_dev_03
+      hibernate.order_inserts: true
+  datasource:
+    platform: oracle
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@10.126.80.44:1521/orcl.cisco.com
+    username: cwm_user  
+    password: Cwm123$
