@@ -1,0 +1,37 @@
+4.3   Accounting (Secure Logging)
+Bank of America's Monitoring, Response & Forensics (MRF) Standard defines the requirements for secure logging as follows:
+
+Security audit logging must be enabled on all systems. The security audit logging attributes and activities must provide the information necessary to reconstruct the activities performed by an account. 
+The minimum required security audit logging attributes include:
+
+The identity of the account accessing the system.
+Date and local time zone (or UTC).
+Authentication method: Local, SAML, OAuth
+System name generating the log
+Log recording system name
+Source IP address
+Port, where available
+Protocol, where available
+Session duration, where available
+Session Identification, where available
+Cookie session identification, where available
+The minimum required security audit logging activities include:
+
+Access, downloading, revisions to Confidential information (as defined in section 4.1 of this HLD).
+Login AND logoff event for BOTH success and failures.
+Changes to a system that impact a business logic or work flow.
+Any changes to the CWM system configurations.
+EACH command action taken, BOTH successful and unsuccessful, by a privileged account including but not limited to:
+All changes, additions, or deletions to any account such as lock, unlock, password reset, permission changes.
+Modifications to system time / time synchronization configurations.
+Log files: access to log files; initialization, stopping or pausing of logging, log modification, changes to access permission on log files.
+Attempts to perform unauthorized functions or access data the user is not authorized to access.
+Modifications of security rules.
+Application and related systems start-ups and shut-downs.
+Attempts to execute privilege elevation.
+System errors relevant to security events, including but not limited to SQL error that indicate a SQL injection, fuzzing, multiple failed logins, failed configuration change, service failures.
+Web access events in extended log format.
+CWM's security audit logs are to be transmitted to BAC's Enterprise Central Security Logging (ECSL) platform using Syslog over TLS. CWM's Syslog messaging is to conform to the following industry standards:
+
+RFC5425 - Transport Layer Security (TLS) Transport Mapping for Syslog 
+RFC5424 - The Syslog Protocol
