@@ -1,0 +1,1761 @@
+
+
+John Wolfkamp 5/7/19, 8:27 PM
+no problem, ill be around for a bit
+You 5/7/19, 8:27 PM
+but i need 2 hours today(
+ok
+
+John Wolfkamp 5/7/19, 8:27 PM
+so whenever works for you just ping me 
+You 5/7/19, 8:27 PM
+sure will
+love your work ethics
+and promise to not bother you too much in future
+
+John Wolfkamp 5/7/19, 8:28 PM
+thanks 🙂 I just like to code 
+and really its no problem at all
+You 5/7/19, 10:18 PM
+awake)?
+
+John Wolfkamp 5/7/19, 10:22 PM
+yup
+You 5/7/19, 10:22 PM
+lets meet ))
+
+John Wolfkamp 5/7/19, 10:22 PM
+I can go ahead and start my webex
+You 5/7/19, 10:22 PM
+logging in now
+sure
+
+John Wolfkamp 5/7/19, 10:23 PM
+https://cisco.webex.com/meet/jwolfkam
+5/8/19
+You 5/8/19, 8:11 AM
+Happy wednesday morning. I added a test GeT method in southbound but unable to reach it in browser. what is the context root. there is no context root defined in bootstrap or in config server for south bound
+
+John Wolfkamp 5/8/19, 8:14 AM
+Let me pull up the code real quick
+You 5/8/19, 8:16 AM
+sure 🙂
+
+John Wolfkamp 5/8/19, 8:16 AM
+Looks like it should be /cwm/southbound
+
+John Wolfkamp 5/8/19, 8:17 AM
+What's odd is that has been moved to an application.yml file within the southbound project itself
+I am not sure why someone would have split it the way it has been
+You 5/8/19, 8:17 AM
+john so when i try to reach it says i need full authentication
+how do i get the authentication first
+
+John Wolfkamp 5/8/19, 8:18 AM
+yup that is correct
+from a browser? thats a tricky question
+You 5/8/19, 8:18 AM
+how can i reach this endpoint then )?
+or if you tell me how i will do it from postman too
+
+John Wolfkamp 5/8/19, 8:18 AM
+you will want to use postman for that
+You 5/8/19, 8:19 AM
+may you help me with this?
+
+John Wolfkamp 5/8/19, 8:19 AM
+yup, take a look at this https://confluence-eng-rtp1.cisco.com/conf/pages/viewpage.action?spaceKey=CADI&title=TLS+support
+
+John Wolfkamp 5/8/19, 8:19 AM
+hmm half of that has been scratched out for some reason
+I wonder if that method still works
+You 5/8/19, 8:20 AM
+ok will play around with it.
+is there anyway to turn off authentication just for testing purposes
+
+John Wolfkamp 5/8/19, 8:21 AM
+hmm yup the new changes do not make this easy
+well let me know if you cant get it working I will see if I can figure out the new proper way in the mean time
+You 5/8/19, 8:21 AM
+sure
+thank you so much again
+
+John Wolfkamp 5/8/19, 8:22 AM
+of course!
+5/16/19
+You 5/16/19, 8:28 AM
+Good morning John
+
+John Wolfkamp 5/16/19, 9:01 AM
+Hey Karthik good morning sorry I missed your earlier message
+You 5/16/19, 9:04 AM
+need your help. can i reach out to you within an hour
+still dont know how to test southbohnf
+
+John Wolfkamp 5/16/19, 9:05 AM
+Sure I have my stand up at 10 but 10:30 should be fine
+You 5/16/19, 10:51 AM
+Would 11a work?
+
+John Wolfkamp 5/16/19, 10:51 AM
+sure
+You 5/16/19, 10:52 AM
+or we can do at 12p ..
+is that fine? )
+sorry for changing
+
+John Wolfkamp 5/16/19, 10:53 AM
+I can do 12:30
+You 5/16/19, 10:53 AM
+sure that works
+
+John Wolfkamp 5/16/19, 10:53 AM
+need 12 - 12:30 to eat 🙂
+You 5/16/19, 10:53 AM
+🙂
+Just need to figure out how to test southbound
+You 5/16/19, 12:00 PM
+John we can actually do the meeting after 5pm. is that outside your window?
+also, ramesh asked me to work with you on some security stuff for next sprint
+
+John Wolfkamp 5/16/19, 12:09 PM
+thats fine we can meet after 5 today
+You 5/16/19, 3:45 PM
+John so meeting at 5p?
+
+John Wolfkamp 5/16/19, 5:05 PM
+yup
+sorry just off another call
+You 5/16/19, 5:06 PM
+Let’s do 8a tomorrow 🙂
+im lazy now 🙂
+
+John Wolfkamp 5/16/19, 5:06 PM
+haha sure thing
+You 5/16/19, 5:06 PM
+is it ok)
+
+John Wolfkamp 5/16/19, 5:06 PM
+8:00 tommorow it is 
+You 5/16/19, 5:06 PM
+Friend of mine came to my place and we are having some snacks and indian food 🙂
+😉
+
+John Wolfkamp 5/16/19, 5:06 PM
+sounds good enjoy it and I will sync up with you in the am
+5/17/19
+You 5/17/19, 7:53 AM
+Good morning John
+
+John Wolfkamp 5/17/19, 7:55 AM
+Hey good morning 
+You 5/17/19, 7:56 AM
+let’s meet at 8a?
+
+John Wolfkamp 5/17/19, 7:56 AM
+I've got just a couple things I wrapping up now are you free at 8:30?
+You 5/17/19, 7:56 AM
+yes I am
+
+John Wolfkamp 5/17/19, 7:56 AM
+Cool let's meet then
+You 5/17/19, 7:56 AM
+I will go get some breakfast and ping you 🙂
+if I am late by 5 mts please dont be mad ). I am just going to go to the closeby diner
+
+John Wolfkamp 5/17/19, 8:31 AM
+no problem
+I am starting up my meeting room now
+You 5/17/19, 8:31 AM
+I am here 🙂
+
+John Wolfkamp 5/17/19, 8:31 AM
+feel free to join 
+whenever
+kk
+You 5/17/19, 8:31 AM
+sure
+You 5/17/19, 8:33 AM
+can you hear me on webex
+
+John Wolfkamp 5/17/19, 8:33 AM
+
+
+nope
+are you able to hear me?
+You 5/17/19, 8:34 AM
+no . b ut let me connect audio from phone
+i have this issue when i m on vpn
+
+John Wolfkamp 5/17/19, 8:34 AM
+kk
+
+John Wolfkamp 5/17/19, 8:56 AM
+-Xbootclasspath/a:lombok.jar
+
+John Wolfkamp 5/17/19, 9:06 AM
+CwmCucmClusterController
+CwmCucClusterController
+
+John Wolfkamp 5/17/19, 9:22 AM
+CwmSouthBoundCUCMController
+@GetMapping(RestUriMappings.SOUTHBOUND_CUCM_TEST_EXISTING)
+public JsonNode testConnection(@RequestParam("hostUuid") String hostUuid) throws Exception {
+if (null == hostUuid || hostUuid.isEmpty()) {
+throw new HttpServerErrorException(HttpStatus.BAD_REQUEST, Messages.TEST_INVALID_HOST + hostUuid);
+}
+return cucmServiceImpl.testConnectivity(hostUuid);
+}
+
+John Wolfkamp 5/17/19, 9:25 AM
+joshorva@cisco.com
+
+John Wolfkamp 5/17/19, 9:26 AM
+CwmSouthBoundCUCController
+/**
+* Test connection.
+*
+* @param hostUuid the host uuid
+* @return the json node
+* @throws Exception the exception
+*/
+@GetMapping(RestUriMappings.SOUTHBOUND_CUC_TEST_EXISTING)
+public JsonNode testConnection(@RequestParam(name = "hostUuid", required = false) String hostUuid)
+throws Exception {
+if (null == hostUuid || hostUuid.isEmpty()) {
+throw new HttpServerErrorException(HttpStatus.BAD_REQUEST, Messages.TEST_INVALID_HOST + hostUuid);
+}
+return cucServiceImpl.testConnectivity(hostUuid);
+}
+You 5/17/19, 11:53 AM
+I got eclipse 
+what is the name of the perspective that shows the server with port number
+boot dashboard. equivalent in eclipse
+
+John Wolfkamp 5/17/19, 12:07 PM
+it is
+Show View -> Boot Dashboard
+you will only see this option if you have the Spring Tools plugin installed into your eclipse
+You 5/17/19, 12:08 PM
+i was able to get regular eclipse and lombok working
+
+John Wolfkamp 5/17/19, 12:08 PM
+o good!
+You 5/17/19, 12:08 PM
+getting springboot plugin now
+i got the wrong plugin. now correcting it
+You 5/17/19, 12:12 PM
+gettitng this error in cwm data service Caused by: org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:115)
+at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+at org.hibernate.resource.jdbc.internal.LogicalConnectionManagedImpl.acquireConnectionIfNeeded(LogicalConnectionManagedImpl.java:109)
+at org.
+You 5/17/19, 12:15 PM
+What could be the error
+this was working when we were testing this morning
+
+John Wolfkamp 5/17/19, 12:19 PM
+did you check the jdbc settings in the config service configs/application.yml
+or is this the same workspace as before?
+You 5/17/19, 12:19 PM
+i imported the same projects
+
+John Wolfkamp 5/17/19, 12:20 PM
+hmm
+perhaps someone took down the DB you are using
+or were using
+You 5/17/19, 12:20 PM
+this is the cwm specific one correct?
+
+John Wolfkamp 5/17/19, 12:20 PM
+are you able to verify that DB is infact still up and running
+You 5/17/19, 12:20 PM
+let me check
+You 5/17/19, 12:32 PM
+the connection is not going you are right
+
+John Wolfkamp 5/17/19, 12:35 PM
+Sounds like someone might have killed your db
+You 5/17/19, 2:23 PM
+Who else might be able to provide me an instance of database to connect and test?
+atul?
+
+John Wolfkamp 5/17/19, 2:23 PM
+If not Ramesh, then perhaps Atul or Peter
+You 5/17/19, 2:23 PM
+peter’s last name?
+
+John Wolfkamp 5/17/19, 2:25 PM
+Sramka
+CEC - psramka
+You 5/17/19, 2:27 PM
+atul’s last name ?
+i asked peter
+
+John Wolfkamp 5/17/19, 2:31 PM
+Atul Paldhikar
+CEC - apaldhik
+You 5/17/19, 2:31 PM
+thank you ,, sent them the note
+i am thinking in long run i need an oracle instance running locally
+where do they have DDL scripts and test data insertion script?
+do they have one
+
+John Wolfkamp 5/17/19, 2:32 PM
+Peter should know that one
+he wrote the DDLs
+You 5/17/19, 3:10 PM
+quick question
+
+John Wolfkamp 5/17/19, 3:10 PM
+sure whats up?
+You 5/17/19, 3:10 PM
+10.126.80.44
+i am connecting here
+service name orcl.cisco.com
+user name
+cwmuser
+password Cwm123$
+where does schema name come into picture
+this is through oracle sql developer to test connection
+
+John Wolfkamp 5/17/19, 3:11 PM
+its how the db was installed
+You 5/17/19, 3:11 PM
+and i didnt see tables i saw before
+
+John Wolfkamp 5/17/19, 3:11 PM
+o through oracle sql
+the default schema name is the same of the username
+unless you specify otherwise
+You 5/17/19, 3:11 PM
+ok
+
+John Wolfkamp 5/17/19, 3:11 PM
+but when you first login it shows you the scheme name = to your username
+You 5/17/19, 3:23 PM
+[
+{
+"cwmCucmClusterUuid": "44a6354b-026c-40a0-8f7e-43a6332bd243",
+"cwmCucmClusterStatus": {
+"cwmCucmClusterStatusUuid": "9d33edaa-96b1-450f-a995-116e63bbee8b",
+"description": "Active",
+"name": "Active"
+},
+"cwmUserGroupUuid": "0c484ad9-52bf-4b42-815b-cde4559b5768",
+"name": "RTP_CUCM_166",
+"description": "Test description",
+"host": "10.122.32.166",
+"version": "10.5",
+"userId": "admin",
+"password": "rtpR0bot",
+"versionOverRide": "1",
+"dirNumberThreshold": 10,
+"phoneThreshold": 15,
+"accessStartTimeUtc": null,
+"accessEndTimeUtc": null,
+"maintStartStampUtc": "2019-02-06T14:10:22.000+0000",
+"maintEndStampUtc": "2019-02-06T14:10:32.000+0000",
+"cwmClusterEnvironment": {
+"cwmClusterEnvironmentUuid": "0e775ea7-0ca7-4794-841a-3c308ae6779b",
+"description": "Consumer",
+"name": "Consumer",
+"rowVersion": 0
+},
+"rowVersion": 0,
+"cwmCucmServerTypes": []
+},
+{
+"cwmCucmClusterUuid": "6a2ddcd4-bc21-4d91-b55e-75e787512808",
+"cwmCucmClusterStatus": {
+"cwmCucmClusterStatusUuid": "9d33edaa-96b1-450f-a995-116e63bbee8b",
+"description": "Active",
+"name": "Active"
+},
+"cwmUserGroupUuid": "0c484ad9-52bf-4b42-815b-cde4559b5768",
+"name": "BLR_CUCM_51",
+"description": "Bangalore lab call manager server 51",
+"host": "10.126.80.51",
+"version": "10.5",
+"userId": "admin",
+"password": "rtpR0bot",
+"versionOverRide": "1",
+"dirNumberThreshold": 10,
+"phoneThreshold": 15,
+"accessStartTimeUtc": null,
+"accessEndTimeUtc": null,
+"maintStartStampUtc": null,
+"maintEndStampUtc": null,
+"cwmClusterEnvironment": {
+"cwmClusterEnvironmentUuid": "0e775ea7-0ca7-4794-841a-3c308ae6779b",
+"description": "Consumer",
+"name": "Consumer",
+"rowVersion": 0
+},
+"rowVersion": 1,
+"cwmCucmServerTypes": []
+}
+]
+I am able to get all clusters 🙂
+this is through cwm data service
+now to do it through southbound i have to find which method , its context root and path etc 
+You 5/17/19, 3:26 PM
+It worked
+have you worked on southbound?
+sorry wrong window 🙂
+
+John Wolfkamp 5/17/19, 3:39 PM
+No worries, and good to hear :)
+You 5/17/19, 3:42 PM
+In southbound I am looking at CUCM controller
+i dont see any calls like ‘get all clusters'
+You 5/17/19, 3:42 PM
+But this is the url i need to go https://localhost:8044/cwm/southbound/cucm
+You 5/17/19, 3:43 PM
+actually this works
+You 5/17/19, 3:43 PM
+https://localhost:8044/cwm/southbound/cucm/testKnownConnection?hostUuid=6a2ddcd4-bc21-4d91-b55e-75e787512808
+You 5/17/19, 3:43 PM
+{
+"statusCode": 200,
+"responseMsg": "<html><head><title>Cisco CallManager: AXL Web Service</title></head><body>\n<h1>Cisco CallManager: AXL Web Service</h1>\n<p>The AXL Web Service is working and accepting requests.\n Use HTTP POST to send a request.</p></body></html>\n"
+}
+is this what i am supposed to do?
+
+John Wolfkamp 5/17/19, 3:43 PM
+Yup
+You 5/17/19, 3:44 PM
+perfect 🙂
+but why do we not have get all clusters?
+
+John Wolfkamp 5/17/19, 4:16 PM
+Probably no use case for it
+5/21/19
+You 5/21/19, 10:35 AM
+Happy tuesday morning 🙂
+which databases southbound interacts with directly 
+
+John Wolfkamp 5/21/19, 10:36 AM
+Hey and Happy Tuesday
+You 5/21/19, 10:36 AM
+and if I have a useful annotation that I would like others to use, where do I move the code ? [core-commons] and what is the process
+
+John Wolfkamp 5/21/19, 10:37 AM
+Yup Core-Commons
+and standard code review
+You 5/21/19, 10:37 AM
+i need to create feature branch and push it in?
+
+John Wolfkamp 5/21/19, 10:37 AM
+maybe put a comment or two in the review explaining why you think it would be usefull
+You 5/21/19, 10:38 AM
+would you be able to review when i push?
+
+John Wolfkamp 5/21/19, 10:38 AM
+yes to both
+You 5/21/19, 10:38 AM
+Which databases does southbound directly talk to ? [not through another service]
+
+John Wolfkamp 5/21/19, 10:39 AM
+Database or table?
+there is really only 1 DB in our solution that we control
+You 5/21/19, 10:39 AM
+database
+
+John Wolfkamp 5/21/19, 10:39 AM
+3
+so, ours (CWMs), UCDTs and CUCs
+You 5/21/19, 10:40 AM
+its all the same database
+correct?
+just different tables?
+
+John Wolfkamp 5/21/19, 10:40 AM
+not in this case, no
+those are 3 separate DBs
+You 5/21/19, 10:40 AM
+ok
+
+John Wolfkamp 5/21/19, 10:40 AM
+its possible that UCDT and CWMs DB can be combined into a single DB
+but it doesnt have to be that way
+You 5/21/19, 10:40 AM
+in southbound where are the connection informations of the three 🙂
+
+John Wolfkamp 5/21/19, 10:41 AM
+CUCs DB will always be different
+The CWM Database connection info is in the application.yml file under Config-Server/configs
+You 5/21/19, 10:42 AM
+and the rest?
+
+John Wolfkamp 5/21/19, 10:42 AM
+the other database connection info is contained within the CWM Database
+You 5/21/19, 10:42 AM
+like in a table?
+
+John Wolfkamp 5/21/19, 10:42 AM
+yup, but I do not know which table unfortunately
+You 5/21/19, 10:42 AM
+so i need to check using testconnection methods?
+ok np 🙂
+
+John Wolfkamp 5/21/19, 10:43 AM
+One other caveat is that there can be many CUC Databases that we connect to
+each different
+so 3 is really the minimum
+its really 3+
+You 5/21/19, 11:07 AM
+I think my next sprint task is to inherit the security work you are doing and implement it 🙂
+
+John Wolfkamp 5/21/19, 11:07 AM
+Yup 🙂 I have a few tasks 
+I am happy to walk you though some of it when you are ready
+I will be in Surgery Thursday however and probably out till next Tuesday (hopefully)
+You 5/21/19, 11:08 AM
+Sure. Maybe friday or next tuesday I will sit with you on that :). once i complete and lock this current task
+ok .. so maybe ill meet with you tomorrow then
+
+John Wolfkamp 5/21/19, 11:08 AM
+sounds good
+I am pretty confident I can return on Tuesday so if we need to wait till then that would be ok as well
+You 5/21/19, 11:09 AM
+sure
+I hope it is a simple surgery
+and i pray for your quick recovery
+
+John Wolfkamp 5/21/19, 11:10 AM
+thanks! 
+You 5/21/19, 11:46 AM
+Can you suggest what metrics in southbound can be monitored using JMX - except for latency, run time, exceptions, who are the callers, db connectivity statuses
+
+John Wolfkamp 5/21/19, 11:47 AM
+I think that covers everything I can think of
+You 5/21/19, 11:50 AM
+yea i was also not able to think anything else 🙂
+also pointcut for catching exceptions is not working for me
+not sure why
+
+John Wolfkamp 5/21/19, 11:51 AM
+I am not familiar with pointcut, what is that?
+You 5/21/19, 11:52 AM
+its aspect oriented programming
+
+John Wolfkamp 5/21/19, 11:53 AM
+ah got ya
+You 5/21/19, 11:54 AM
+how do I reach the swagger URL for southbound
+You 5/21/19, 12:03 PM
+John I have huge doubt
+You 5/21/19, 12:04 PM
+step 1) I am getting cluster details from https://localhost:8045/data/cwm/v1/cucm-clusters/ end point
+You 5/21/19, 12:04 PM
+2) then each hostId you can check test connection
+so southbound .. where is it inside southbound to manage which cwm clusters?
+
+John Wolfkamp 5/21/19, 12:05 PM
+what do you mean manage the clusters?
+You 5/21/19, 12:05 PM
+we are expecting clients of southbound to know the hostuuid to connect to
+should southbound not manage or gather list of uuids?
+
+John Wolfkamp 5/21/19, 12:05 PM
+O well, how you describe it was my original design
+You 5/21/19, 12:06 PM
+and it changed/.
+?
+
+John Wolfkamp 5/21/19, 12:07 PM
+Yeah I wanted all that management to be within southbound
+yup 
+You 5/21/19, 12:08 PM
+so how does southbound gather it then ? do we need to have a way for us to tell where cucm or cuc is running?
+
+John Wolfkamp 5/21/19, 12:08 PM
+so all of that falls under Ramesh’s decisions now
+You 5/21/19, 12:08 PM
+or atleast where data service is?
+
+John Wolfkamp 5/21/19, 12:09 PM
+yeah I suppose now a client will have to hit the DB to get the cucm cluster ids
+and then send those Ids down to couthbound
+which will then have to look up the same time with that id
+and get the same information to make a connection
+ugh
+You 5/21/19, 12:10 PM
+we can have a call next week with ramesh
+but for now ill just have a data service end point and poll the host uuids
+is it fair to assume that data service will have same root as southbound
+You 5/21/19, 12:11 PM
+https://localhost:8045/data
+You 5/21/19, 12:11 PM
+for https://localhost:8044/cwm/southbound/
+
+John Wolfkamp 5/21/19, 12:11 PM
+you mean localhost?
+or you mean the root context
+im not sure what you mean by the question
+You 5/21/19, 12:12 PM
+i mean if southbound were to guess where data service is running, cna it replace the port and context root on the same server its running and that would correspond to correct data service?
+
+John Wolfkamp 5/21/19, 12:13 PM
+doesnt need to do that
+Eureka and Ribbon take care of that connection
+inter-service communication is done via service name
+hostname/port doesnt matter
+You 5/21/19, 12:14 PM
+so i can query eureka for the url for data service?
+basically my objective is to get all hostUUIDs from data service from southbound
+
+John Wolfkamp 5/21/19, 12:15 PM
+you should be using a Feign client to query the data service
+Feign hides away all that boiler plate logic of querying Eureka
+You 5/21/19, 12:16 PM
+can you show me how
+
+John Wolfkamp 5/21/19, 12:19 PM
+trying to find a good example
+You 5/21/19, 12:21 PM
+ok sure
+You 5/21/19, 12:26 PM
+were you able to find any
+
+John Wolfkamp 5/21/19, 12:27 PM
+So all the feign client have been moved to core-commons
+You 5/21/19, 12:28 PM
+so i need to run feignclient
+and hit that end point with same extension as the controller endpoint?
+
+John Wolfkamp 5/21/19, 12:29 PM
+yeah they are all called proxy
+take a look at
+CwmDataServiceProxy
+and how its used
+
+John Wolfkamp 5/21/19, 12:49 PM
+Sorry was getting my attention split about 6 different ways
+I am good now, does that feign client make sense?
+You 5/21/19, 12:50 PM
+no worries
+it makes sense
+i am yet to test it out
+will let you know and bother you if stuck 🙂
+
+John Wolfkamp 5/21/19, 12:50 PM
+no worries 🙂 and sounds good
+You 5/21/19, 3:58 PM
+which microservice should i start to have the feign client running
+
+John Wolfkamp 5/21/19, 3:59 PM
+The Service that invokes the Feign client
+so say you have 2 services ServiceA and ServiceB
+if you want A to talk to B
+then both have to be started 
+and service A needs to instantiate a Feign Client for B
+So Feign client isnt a service, its just a super fancy version of RestTemplate 
+You 5/21/19, 4:01 PM
+so in my case my objective is , for southbound, to get all cucm and cuc clusters
+and these services are available in cwm-data-service
+so i need to talk to data from southbound
+in data i am calling ‘/data/cwm/v1/cucm-clusters'
+
+John Wolfkamp 5/21/19, 4:02 PM
+So southbound needs to @Autowired the CwmDataServiceProxy 
+
+John Wolfkamp 5/21/19, 4:03 PM
+if you have it take a look at
+Decrypter.java
+in there I have autowired my security proxy so that that class can contact the security service
+You 5/21/19, 4:05 PM
+List<CwmCucmClusterDto> cucmClusters = cwmDataServiceProxy.getAllCwmCucmClusters();
+
+John Wolfkamp 5/21/19, 4:05 PM
+yup like that
+You 5/21/19, 4:05 PM
+and feign will do the backend REST calls and abstract for me
+
+John Wolfkamp 5/21/19, 4:06 PM
+yup
+its pretty powerful
+You 5/21/19, 4:06 PM
+and this pattern can be used for any two microservices
+yes
+
+John Wolfkamp 5/21/19, 4:06 PM
+hard to get right, but very useful
+You 5/21/19, 4:06 PM
+i dont need to pack / unpack and cast and uncast
+
+John Wolfkamp 5/21/19, 4:06 PM
+nope
+as long as the Feign proxy interface has been well defined
+You 5/21/19, 4:21 PM
+another unrelated question
+
+John Wolfkamp 5/21/19, 4:21 PM
+sure thing
+You 5/21/19, 4:21 PM
+i am trying to find the status of connections in a schedule and populating some variables which i am exposing as jmx
+i thought simply adding @Scheduled(<integer>)
+would do
+but it compiled and all but its showing some error
+44a6354b-026c-40a0-8f7e-43a6332bd243
+2019-05-21 16:19:37.656 ERROR [cwm-southbound-gateway,,,] 789 --- [ scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler : Unexpected error occurred in scheduled task.
+
+java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request.
+at org.springframework.web.context.request.RequestContextHolder.currentRequestAttributes(RequestContextHolder.java:131)
+at com.cisco.cadi.epsilon.aop.MetricAspect.logExecutionTime(MetricAspect.java:60)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+what am I doing wrong
+
+John Wolfkamp 5/21/19, 4:23 PM
+Where did you add the annotation?
+You 5/21/19, 4:23 PM
+on top of method
+@Scheduled(fixedRate = 180000)
+public void pollConnectivity() throws Exception{
+List<CwmCucmClusterDto> cucmClusters = cwmDataServiceProxy.getAllCwmCucmClusters();
+for(CwmCucmClusterDto cluster : cucmClusters) {
+System.out.println(cluster.getCwmCucmClusterUuid());
+JsonNode connectionResult = cwmSouthBoundCUCMController.testConnection(cluster.getCwmCucmClusterUuid());
+System.out.println(connectionResult.asText());
+
+}
+}
+
+John Wolfkamp 5/21/19, 4:23 PM
+I mean what method? one on the controller?
+You 5/21/19, 4:23 PM
+its a custom class
+dont judge it yet
+its under dev
+but i can show you 🙂
+
+John Wolfkamp 5/21/19, 4:24 PM
+no worries just trying to get context
+You 5/21/19, 4:24 PM
+package com.cisco.cadi.epsilon.southbound.jmx;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jmx.export.annotation.ManagedAttribute;
+import org.springframework.jmx.export.annotation.ManagedResource;
+import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.stereotype.Component;
+
+import com.cisco.cadi.epsilon.services.cwmdata.dto.CwmCucmClusterDto;
+import com.cisco.cadi.epsilon.services.cwmdata.proxy.CwmDataServiceProxy;
+import com.cisco.cadi.epsilon.southbound.controller.CwmSouthBoundCUCMController;
+import com.fasterxml.jackson.databind.JsonNode;
+
+@Component
+@ManagedResource(
+objectName="Epsilon:category=CwmSouthBound,name=ConnectivityStatusBean",
+description="Connectivity Status Bean",
+log=true, logFile="jmx-platform.log")
+public class ConnectivityStatusBean {
+
+@Autowired
+private CwmDataServiceProxy cwmDataServiceProxy;
+
+@Autowired
+private CwmSouthBoundCUCMController cwmSouthBoundCUCMController;
+
+@Scheduled(fixedRate = 180000)
+public void pollConnectivity() throws Exception{
+List<CwmCucmClusterDto> cucmClusters = cwmDataServiceProxy.getAllCwmCucmClusters();
+for(CwmCucmClusterDto cluster : cucmClusters) {
+System.out.println(cluster.getCwmCucmClusterUuid());
+JsonNode connectionResult = cwmSouthBoundCUCMController.testConnection(cluster.getCwmCucmClusterUuid());
+System.out.println(connectionResult.asText());
+
+}
+}
+
+@ManagedAttribute(description="Call Frequency", currencyTimeLimit=0)
+public long getCallFrequency() {
+
+return 1L;
+}
+}
+
+John Wolfkamp 5/21/19, 4:24 PM
+Spring does some odd threading around controllers and the like
+who is instantiating that?
+i see its a @Component
+so someone has to autowire that
+You 5/21/19, 4:25 PM
+let me remove it and try?
+its sole purpose is to expose that jmx operation
+and gather data for the jmx operation
+
+John Wolfkamp 5/21/19, 4:26 PM
+I think i see what your trying to do here, this is just for testing right
+You 5/21/19, 4:26 PM
+i intend to expose the jmx 
+
+John Wolfkamp 5/21/19, 4:26 PM
+or are you trying to use this as the production metrics to periodically poll the endpoints this way?
+You 5/21/19, 4:26 PM
+i mean i have to poll connections and keep it ready for a jmx query
+i will change the time period to longer
+
+John Wolfkamp 5/21/19, 4:27 PM
+ok so the second one, 
+one second I need to meet with Ramesh
+You 5/21/19, 4:27 PM
+sure
+i also need to step out for few
+be back
+
+John Wolfkamp 5/21/19, 4:27 PM
+when I get the chance I want to try and propose a different thought to achieve the same goal
+You 5/21/19, 4:35 PM
+sure. is this super inefficient?
+You 5/21/19, 4:37 PM
+also i want to track the count of exceptions in the controllers. but the aop piece somehow isnt picking up
+
+John Wolfkamp 5/21/19, 4:47 PM
+its a bit ineffecient
+are you free at 5:30 est?
+if not we can meet in the AM
+but I want to make sure I understand what you are going for because I think if I understand right, then I may have a few ideas for you
+You 5/21/19, 4:56 PM
+sorry
+went for some water
+the idea is ability for users to check connectivity of clusters through JMX
+i am open for any suggestion
+
+John Wolfkamp 5/21/19, 4:59 PM
+So my thought process is that you spin off a Runnable that periodically checks the connectivity and then publishes information to a collector
+then you expose stats from that collector
+You 5/21/19, 4:59 PM
+ok
+
+John Wolfkamp 5/21/19, 5:00 PM
+so like a static class that is a collector that way multiple threads would access the same class
+You 5/21/19, 5:00 PM
+so no place for @Scheduler? just for knowledge why is it not efficient? due to some thread blocking?
+
+John Wolfkamp 5/21/19, 5:01 PM
+Its not inefficient, I used the wrong word
+its just hard to control, 
+You 5/21/19, 5:01 PM
+ok 🙂
+
+John Wolfkamp 5/21/19, 5:01 PM
+its hard to say exactly when Spring will spin that up, and in what context it will use
+You 5/21/19, 5:02 PM
+i think ill continue again later today. sitting again fresh. but i will definitely consult with you on code review once I have all pieces together
+makes sense
+
+John Wolfkamp 5/21/19, 5:02 PM
+sure thing
+You 5/21/19, 5:02 PM
+John I appreciate all help you render me
+i know i am taking quite a bit of your time
+
+John Wolfkamp 5/21/19, 5:02 PM
+You are definitally welcome to continue down the path you are going but you may find some challenges in handling the context properly
+of course its no problem
+5/22/19
+You 5/22/19, 10:34 AM
+Can we meet late evening today regarding my next sprint task ?)
+
+John Wolfkamp 5/22/19, 10:57 AM
+I can try not sure yet when exactly 
+
+John Wolfkamp 5/22/19, 5:00 PM
+Hey Karthik, I have some time now if you are free
+I know its last minute so I understand if not, we can try to sync up when I return
+You 5/22/19, 5:03 PM
+John ill be back in 20 mts or so
+is that acceptable? picking up someone from school
+
+John Wolfkamp 5/22/19, 5:03 PM
+sure
+give me a ping when you return
+You 5/22/19, 5:04 PM
+sure
+You 5/22/19, 5:33 PM
+hi john
+
+John Wolfkamp 5/22/19, 5:33 PM
+Hey
+You 5/22/19, 5:33 PM
+I needed two help 1) KT for next sprint task and code review. but code review im not ready yet. i will be by EOD today
+
+John Wolfkamp 5/22/19, 5:35 PM
+sure thing
+i may not get a chance to do the code review but I will certainly try
+did you want me to go over any questions you have for the next sprint now?
+I have some time, I can jump on a call if youd like
+You 5/22/19, 5:35 PM
+yes
+
+John Wolfkamp 5/22/19, 5:36 PM
+
+https://cisco.webex.com/meet/jwolfkam
+
+John Wolfkamp 5/22/19, 5:43 PM
+https://www.ory.sh/run-oauth2-server-open-source-api-security
+
+John Wolfkamp 5/22/19, 5:44 PM
+
+https://wwwin-github.cisco.com/AS-CADI-Collaboration/hsm_simulator
+
+John Wolfkamp 5/22/19, 6:07 PM
+https://wwwin-github.cisco.com/AS-BAC/epsilon/tree/feature/hsm_oauth_config
+
+John Wolfkamp 5/22/19, 6:07 PM
+https://wwwin-github.cisco.com/AS-BAC/epsilon/blob/feature/hsm_oauth_config/cwm-security/src/main/java/com/cisco/cadi/epsilon/security/hsm/HSMKeyManager.java
+5/28/19
+You 5/28/19, 1:31 PM
+I will start on the sprint task after this JMX thing is done.
+i need a day or two
+
+John Wolfkamp 5/28/19, 1:32 PM
+understood
+You 5/28/19, 1:40 PM
+do you have any sample regarding ‘unprotecting’ a URL
+using webconfig
+basically i want particular URL pattern to be not OAuth enforced
+
+John Wolfkamp 5/28/19, 1:41 PM
+I do
+You 5/28/19, 1:41 PM
+may you share 
+
+John Wolfkamp 5/28/19, 1:41 PM
+take a look at:
+
+John Wolfkamp 5/28/19, 1:41 PM
+
+https://wwwin-github.cisco.com/AS-CADI-Collaboration/hsm_simulator/blob/master/cwm-encryption-test/src/main/java/com/cisco/cadi/epsilon/test/SpringBoot2JPAWithH2Application.java
+
+John Wolfkamp 5/28/19, 1:41 PM
+there I am overriding the webconfig
+starting around line 39
+You 5/28/19, 1:42 PM
+so i just add a bean ?
+@Bean
+
+public WebSecurityConfigurerAdapter webSecurityConfig(DataSource dataSource) {
+
+return new WebSecurityConfigurerAdapter() {
+
+public void configure(WebSecurity web) throws Exception {
+
+
+
+// All the paths specified here excluded from authorization/authentication and
+
+// can be accessed without OAuth token.
+
+web.ignoring().antMatchers("**");
+
+}
+
+
+
+@Override
+
+protected void configure(AuthenticationManagerBuilder builder) throws Exception {
+
+builder.jdbcAuthentication().dataSource(dataSource);
+
+}
+
+};
+
+}
+
+John Wolfkamp 5/28/19, 1:43 PM
+yup but you will likely get an error about overriding beans
+to get around that you need to
+add something to your applcation.yml
+
+John Wolfkamp 5/28/19, 1:44 PM
+
+https://wwwin-github.cisco.com/AS-CADI-Collaboration/hsm_simulator/blob/master/cwm-encryption-test/src/main/resources/application.yml
+
+John Wolfkamp 5/28/19, 1:44 PM
+lines 13 and 14
+You 5/28/19, 1:44 PM
+thank you
+
+John Wolfkamp 5/28/19, 1:45 PM
+yup, keep in mind you dont really want to do that in production but its an easy method for your own testing
+You 5/28/19, 1:45 PM
+this is to unprotect the actuator end point
+ok i will only use it for testing now
+5/29/19
+You 5/29/19, 2:00 PM
+do you know about Eureka? I am exploring if i can send custom metrics from each service to eureka and let our customers get this data from eureka directly
+
+John Wolfkamp 5/29/19, 2:13 PM
+So that's more in actuators domain than eureka
+Eureka is more service discovery
+You 5/29/19, 2:16 PM
+ok
+You 5/29/19, 3:29 PM
+JsonNode connectionResult = cwmSouthBoundCUCMController.testConnection(cluster.getCwmCucmClusterUuid());
+this line of code fails for me
+package com.cisco.cadi.epsilon.southbound.jmx;
+
+import java.util.List;
+import java.util.concurrent.ConcurrentHashMap;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jmx.export.annotation.ManagedAttribute;
+import org.springframework.jmx.export.annotation.ManagedOperation;
+import org.springframework.jmx.export.annotation.ManagedResource;
+import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.stereotype.Component;
+import org.springframework.web.context.request.RequestContextHolder;
+
+import com.cisco.cadi.epsilon.services.cucdata.proxy.CucDataServiceProxy;
+import com.cisco.cadi.epsilon.services.cucmdata.proxy.CucmDataServiceProxy;
+import com.cisco.cadi.epsilon.services.cwmdata.dto.CwmCucClusterDto;
+import com.cisco.cadi.epsilon.services.cwmdata.dto.CwmCucmClusterDto;
+import com.cisco.cadi.epsilon.services.cwmdata.proxy.CwmDataServiceProxy;
+import com.cisco.cadi.epsilon.southbound.controller.CwmSouthBoundCUCMController;
+import com.fasterxml.jackson.databind.JsonNode;
+
+@Component
+@ManagedResource(
+objectName="Epsilon:category=CwmSouthBound,name=ConnectivityStatusBean",
+description="Connectivity Status Bean",
+log=true, logFile="jmx-platform.log")
+public class ConnectivityStatusBean {
+
+@Autowired
+private CwmDataServiceProxy cwmDataServiceProxy;
+
+@Autowired
+private CucDataServiceProxy cucDataServiceProxy;
+
+@Autowired
+private CwmSouthBoundCUCMController cwmSouthBoundCUCMController;
+
+@ManagedAttribute(description="Connectivity Statuses")
+public ConcurrentHashMap getConnectivityResults() {
+return connectivityResults;
+}
+
+public void setConnectivityResults(ConcurrentHashMap connectivityResults) {
+this.connectivityResults = connectivityResults;
+}
+
+private ConcurrentHashMap connectivityResults = new ConcurrentHashMap();
+
+@Scheduled(fixedDelay = 12000)
+//@ManagedOperation(description="Check Connection Statuses")
+public void pollConnectivity() throws Exception{
+List<CwmCucmClusterDto> cucmClusters = cwmDataServiceProxy.getAllCwmCucmClusters();
+for(CwmCucmClusterDto cluster : cucmClusters) {
+System.out.println(cluster.getCwmCucmClusterUuid());
+System.out.println(cluster.getName());
+JsonNode connectionResult = cwmSouthBoundCUCMController.testConnection(cluster.getCwmCucmClusterUuid());
+System.out.println(connectionResult.asText());
+connectivityResults.put("CUCM-" + cluster.getCwmCucmClusterUuid(), "UP");
+connectivityResults.put("CUCM-" + cluster.getName(), "UP");
+}
+
+List<CwmCucClusterDto> cucClusters = cwmDataServiceProxy.getAllCucClusters();
+for(CwmCucClusterDto cluster : cucClusters) {
+System.out.println(cluster.getCwmCucClusterUuid());
+System.out.println(cluster.getName());
+connectivityResults.put("CUC-" + cluster.getName(), "UP");
+}
+}
+
+@ManagedAttribute(description="Call Frequency", currencyTimeLimit=0)
+public long getCallFrequency() {
+
+return 1L;
+}
+}
+Idea is I am trying to pull the connection result for all clusters
+and I have the cwmSouthBoundCUCMController.testConnection through auto wiring
+the exception is this
+
+java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request.
+at org.springframework.web.context.request.RequestContextHolder.currentRequestAttributes(RequestContextHolder.java:131)
+at com.cisco.cadi.epsilon.jmx.MetricAspect.logExecutionTime(MetricAspect.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+any suggestion how I may tackle this?
+
+John Wolfkamp 5/29/19, 3:31 PM
+what line is that exception on?
+actually are you autowiring cwmSouthBoundCUCMController?
+you are
+You 5/29/19, 3:32 PM
+yes
+@Autowired
+private CwmSouthBoundCUCMController cwmSouthBoundCUCMController;
+
+John Wolfkamp 5/29/19, 3:32 PM
+you should not since its not bound within an HttpContext
+You 5/29/19, 3:32 PM
+ok
+how may I get a reference to that?
+
+John Wolfkamp 5/29/19, 3:32 PM
+Autowiring is a bit tricky
+just instanatiate one
+new cwmSouthBoundCUCMController()
+You 5/29/19, 3:32 PM
+ok
+You 5/29/19, 3:36 PM
+cwmSouthBoundCUCMController = new CwmSouthBoundCUCMController();
+JsonNode connectionResult = cwmSouthBoundCUCMController.testConnection(cluster.getCwmCucmClusterUuid());
+
+java.lang.NullPointerException: null
+at com.cisco.cadi.epsilon.southbound.controller.CwmSouthBoundCUCMController.testConnection(CwmSouthBoundCUCMController.java:71)
+at com.cisco.cadi.epsilon.southbound.jmx.ConnectivityStatusBean.pollConnectivity(ConnectivityStatusBean.java:57)
+at com.cisco.cadi.epsilon.southbound.jmx.ConnectivityStatusBean$$FastClassBySpringCGLIB$$a1f563c2.invoke(<generated>)
+at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:746)
+at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:88)
+at org.springframework.cloud.sleuth.instrument.scheduling.TraceSchedulingAspect.traceBackgroundThread(TraceSchedulingAspect.java:68)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+its throwing NLP
+
+John Wolfkamp 5/29/19, 3:36 PM
+probably something that thing autowires
+Ugh this is why I hate autowiring (dealing with a similar issue myself ironically)
+You 5/29/19, 3:37 PM
+lol
+may you help me figure this out
+
+John Wolfkamp 5/29/19, 3:37 PM
+let me pull up that class real quick
+I am guessing 71 in your version of CUCMController is: 	return cucmServiceImpl.testConnectivity(credentials);
+and that cucmServiceImpl is autowired
+You 5/29/19, 3:38 PM
+public JsonNode testConnection(@RequestParam("hostUuid") String hostUuid) throws Exception {
+
+if (null == hostUuid || hostUuid.isEmpty()) {
+throw new HttpServerErrorException(HttpStatus.BAD_REQUEST, Messages.TEST_INVALID_HOST + hostUuid);
+}
+return cucmServiceImpl.testConnectivity(hostUuid);
+}
+
+John Wolfkamp 5/29/19, 3:39 PM
+yup same thing
+so you have no choice but to autowire the controller class
+which means you need to properly set the context of thing
+that will take me some time to research
+You 5/29/19, 3:39 PM
+ok how do I do that 🙂
+
+John Wolfkamp 5/29/19, 3:40 PM
+the answers I am getting are you cannot
+so lets take a step back and figure out why you are trying to call that class directly anyhow
+its designed to be called via a web stack, so what if we call its Feign client instead?
+I have having to do that, however, in this instance it seems like the right thing to do
+so in these three lines
+@Autowired
+private CwmDataServiceProxy cwmDataServiceProxy;
+
+@Autowired
+private CucDataServiceProxy cucDataServiceProxy;
+
+@Autowired
+private CwmSouthBoundCUCMController cwmSouthBoundCUCMController;
+you are using the proxy for the top two, why not use the proxy for the last one as well
+It feels wrong, but its going to save you a ton of time trying to set up the servlet context
+You 5/29/19, 3:43 PM
+it does not have test connection for a host ID
+
+John Wolfkamp 5/29/19, 3:43 PM
+add one to the proxy then
+You 5/29/19, 3:43 PM
+ok
+
+John Wolfkamp 5/29/19, 3:43 PM
+its pretty easy, but I can help with that if you need
+You 5/29/19, 3:44 PM
+I will try to repeat whats on the controller into proxy
+is that what i need to do
+
+John Wolfkamp 5/29/19, 3:44 PM
+just the method signature
+since the proxy is just an interface
+You 5/29/19, 3:45 PM
+how does the impl happen 
+
+John Wolfkamp 5/29/19, 3:46 PM
+that, is a long discussion that not I fully understand, but suffice it to say it uses a general connection stack and reflection to create the implentation
+You 5/29/19, 3:46 PM
+lol sure .. ty.
+will try these
+
+John Wolfkamp 5/29/19, 3:50 PM
+another thought would be to autowire the impl class since you have access to that stack
+@Autowired
+private CUCMService cucmServiceImpl;
+and call that directly
+You 5/29/19, 3:50 PM
+sure
+
+John Wolfkamp 5/29/19, 4:18 PM
+Hey Quick Question, what database are you using to test?
+You 5/29/19, 4:18 PM
+i got some connection detail feom confluence
+i think its dev 3
+
+John Wolfkamp 5/29/19, 4:18 PM
+what confluence?
+
+John Wolfkamp 5/29/19, 4:19 PM
+https://confluence-eng-rtp1.cisco.com/conf/display/CADI/10+-+Developer+Info?
+You 5/29/19, 4:19 PM
+CADI
+yes
+You 5/29/19, 4:25 PM
+did i go to wrong db
+
+John Wolfkamp 5/29/19, 4:25 PM
+nope, I was just trying to find a working one
+I know you had found some success and thought to ask which one you were using
+You 5/29/19, 4:30 PM
+😊👍🏻
+if they change anything in backend i will be stuck
+i have not found time to create a local one
+5/31/19
+You 5/31/19, 10:14 AM
+I should be ready to work with you from monday
+latest tuesday morning for sure
+
+John Wolfkamp 5/31/19, 10:17 AM
+sounds good
+You 5/31/19, 10:17 AM
+{"statusCode":200,"responseMsg":"<html><head><title>Cisco CallManager: AXL Web Service</title></head><body>\n<h1>Cisco CallManager: AXL Web Service</h1>\n<p>The AXL Web Service is working and accepting requests.\n Use HTTP POST to send a request.</p></body></html>\n"}
+this is the resulting response when i check for test connection
+do you know what would be the status code if cluster is down
+basically i am sending this detail to a monitoring endpoint and i want it to be just ‘UP’ or ‘Down'
+
+John Wolfkamp 5/31/19, 10:18 AM
+hmm could be a couple different things I imagine based on the CUCM Cluster state
+You 5/31/19, 10:18 AM
+where do i find this information
+
+John Wolfkamp 5/31/19, 10:19 AM
+a 403 if bad credentials, a 404 if the cluster is completely down, a 401? ( I think but im not sure) if the Cluster is up but AXL Service is off
+You 5/31/19, 10:19 AM
+ok thank you 🙂
+
+John Wolfkamp 5/31/19, 10:19 AM
+CUCM Documentation should have a full list I think
+You 5/31/19, 11:12 AM
+How do I test Eureka
+also may you send that Udemy link again? i want to finish it this weekend 🙂
+
+John Wolfkamp 5/31/19, 11:13 AM
+Sure thing, and test Eureka, what exactly do you mean
+You 5/31/19, 11:13 AM
+there is no microservice called eureka
+
+John Wolfkamp 5/31/19, 11:13 AM
+its Registry
+You 5/31/19, 11:14 AM
+i am assuming it is the zuul?
+o
+ok
+do you have the postman collection ?
+
+John Wolfkamp 5/31/19, 11:14 AM
+https://github.com/Netflix/eureka/wiki/Eureka-REST-operations
+
+John Wolfkamp 5/31/19, 11:14 AM
+I think those might be a little off however
+You 5/31/19, 11:14 AM
+thank you
+
+John Wolfkamp 5/31/19, 11:16 AM
+There is not v2
+in the URIs
+
+John Wolfkamp 5/31/19, 11:16 AM
+https://wwwin-github.cisco.com/AS-BAC/epsilon/blob/develop/cwm-core-security-hibernate/src/main/java/com/cisco/cadi/epsilon/security/rest/EurekaRestUtility.java
+
+John Wolfkamp 5/31/19, 11:16 AM
+take a look at the rest util I built as that works with out Eureka
+so that link is good, just remove the “v2” portion of each URI
+6/4/19
+You 6/4/19, 10:33 AM
+Are you getting this message?
+
+John Wolfkamp 6/4/19, 10:38 AM
+I am
+You 6/4/19, 10:43 AM
+I can meet with you tomorrow on the security tasks
+i apologize for being in the other stream
+but it is complete now. just doing code review and merging
+
+John Wolfkamp 6/4/19, 10:47 AM
+no worries
+I might take tomorrow off so it you want we can meet this afternoon or perhaps early tommorow AM
+You 6/4/19, 10:47 AM
+i have a question .. on core commons i see a lot of code specific to southbound
+early morning works for me
+
+John Wolfkamp 6/4/19, 10:48 AM
+do you have an example of the code so I can take a look?
+You 6/4/19, 10:48 AM
+package com.cisco.cadi.epsilon.core.model.southbound.ucdt;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+public class Enterprise {
+
+private int enterpriseId;
+private String enterpriseName;
+private String description;
+
+}
+package com.cisco.cadi.epsilon.core.model.southbound.ucdt;
+
+import lombok.Data;
+
+@Data
+public class UCDTProvisionTemplate {
+
+
+private String payloadid;
+private String superscriptid;
+private String scriptid;
+private String templateid;
+private String templatename;
+private String position;
+private String branchid;
+}
+
+John Wolfkamp 6/4/19, 10:49 AM
+so all the model objects or POJOs
+You 6/4/19, 10:49 AM
+package com.cisco.cadi.epsilon.services.southbound.proxy;
+
+import feign.MethodMetadata;
+import java.lang.annotation.Annotation;
+import java.util.List;
+
+import org.springframework.cloud.openfeign.AnnotatedParameterProcessor;
+import org.springframework.cloud.openfeign.support.SpringMvcContract;
+import org.springframework.core.convert.ConversionService;
+import org.springframework.web.bind.annotation.RequestBody;
+
+
+public class SpringMvcPojoObjectQueryContract extends SpringMvcContract {
+
+public SpringMvcPojoObjectQueryContract(List<AnnotatedParameterProcessor> annotatedParameterProcessors,
+ConversionService conversionService) {
+super(annotatedParameterProcessors, conversionService);
+}
+
+@Override
+protected boolean processAnnotationsOnParameter(MethodMetadata data, Annotation[] annotations, int paramIndex) {
+boolean httpAnnotation = super.processAnnotationsOnParameter(data, annotations, paramIndex);
+
+if (!httpAnnotation && "GET".equalsIgnoreCase(data.template().method())) {
+for (Annotation parameterAnnotation : annotations) {
+if (!(parameterAnnotation instanceof RequestBody)) {
+return false;
+}
+}
+data.queryMapIndex(paramIndex);
+return true;
+}
+return httpAnnotation;
+}
+}
+
+John Wolfkamp 6/4/19, 10:49 AM
+thats correct as others who call southbound need to reference those objects as well
+You 6/4/19, 10:49 AM
+ok got it 🙂
+
+John Wolfkamp 6/4/19, 10:49 AM
+so your right southbound originates those objects, but callers need to know the objects that are getting returned to them 
+You 6/4/19, 1:35 PM
+They have assigned me secure logging using a framework like design
+will you be able to help me do KT tomorrow?
+
+John Wolfkamp 6/4/19, 1:36 PM
+KT? What's is that?
+You 6/4/19, 1:36 PM
+Knowledge Transfer 🙂
+
+John Wolfkamp 6/4/19, 1:36 PM
+O sure thing
+You 6/4/19, 1:36 PM
+as in , i dont know the background of this task
+
+John Wolfkamp 6/4/19, 1:37 PM
+Let's plan to meet at around 8:30 AM tommorow morming
+You 6/4/19, 1:37 PM
+yes sure it works
+i can even meet earlier
+
+John Wolfkamp 6/4/19, 1:38 PM
+Ok I'll see something up once I get out of my dr appointment 
+6/5/19
+You 6/5/19, 7:43 AM
+maybe 5 mts late to meeting
+
+John Wolfkamp 6/5/19, 7:55 AM
+sure no problem
+You 6/5/19, 8:17 AM
+sorry lets do 8:30a. i got stuck in train delay
+
+John Wolfkamp 6/5/19, 8:18 AM
+no problem thats fine
+You 6/5/19, 8:33 AM
+im still in train 😢
+Can we do it some other time slot or in evening or same time tomorrow? i really apologize
+
+John Wolfkamp 6/5/19, 8:34 AM
+No worries
+I am going to be on the road in about 30 mins but I can still hop on a call at that time
+I just wont have my computer with me
+You 6/5/19, 8:35 AM
+sure that works too
+You 6/5/19, 8:52 AM
+so 9ish?
+i can meet anytime niw
+apologize
+You 6/5/19, 9:06 AM
+let me know whenever
+
+John Wolfkamp 6/5/19, 9:10 AM
+ok will start the webex in a few mins
+
+John Wolfkamp 6/5/19, 9:17 AM
+Ok I started it
+Same link as before
+6/6/19
+You 6/6/19, 9:03 AM
+John when can we have a follow up call
+
+John Wolfkamp 6/6/19, 9:17 AM
+We can chat a bit at 9:30
+You 6/6/19, 9:18 AM
+can we do 10?
+or we can do right after standup also
+
+John Wolfkamp 6/6/19, 9:19 AM
+yeah actually after the standup is better
+
+John Wolfkamp 6/6/19, 10:03 AM
+are you able to join the stand up now?
+You 6/6/19, 10:04 AM
+yes
+i am 
+1 min
+
+John Wolfkamp 6/6/19, 10:04 AM
+ok perfect
+You 6/6/19, 10:14 AM
+call? 🙂
+
+John Wolfkamp 6/6/19, 10:14 AM
+yup sure thing
+You 6/6/19, 10:14 AM
+same link?
+
+John Wolfkamp 6/6/19, 10:15 AM
+
+https://cisco.webex.com/meet/jwolfkam
+
+John Wolfkamp 6/6/19, 10:15 AM
+yup
+You 6/6/19, 10:51 AM
+How do I add a new service in cwm? Just a folder with new project?
+under epsilon
+Also, can services just send any random events? How do we coordinate event code?
+it maybe better to have event codes prefixed with microservice ID
+
+John Wolfkamp 6/6/19, 10:52 AM
+we should probably have a java static class in core-commons which defines them
+You 6/6/19, 10:52 AM
+sure
+
+John Wolfkamp 6/6/19, 10:52 AM
+I also like the idea of using a Microservice ID as well as part of the event
+
+John Wolfkamp 6/6/19, 2:29 PM
+If you are free this afternoon lets sync up on the Secure Logging, I am not sure if you heard or were having some audio issues, but the team want a bit simpler approach
+You 6/6/19, 3:40 PM
+Hi John I had to step away as there was a fire alarm in middle of the call
+I am available now
+I can meet anytime
+
+John Wolfkamp 6/6/19, 3:41 PM
+no worries
+sure let me go ahead and start a webex
+
+John Wolfkamp 6/6/19, 3:43 PM
+
+https://cisco.webex.com/meet/jwolfkam
+
+John Wolfkamp 6/6/19, 3:45 PM
+https://confluence-eng-rtp1.cisco.com/conf/display/BACDevOps/CWM+HLD+-+Release+1#CWMHLD-Release1-4.3Accounting(SecureLogging)
+6/7/19
+You 6/7/19, 10:25 AM
+I should be creating a subtask correct? And what priority level should i set
+
+John Wolfkamp 6/7/19, 10:25 AM
+I think any priority is fine
+You 6/7/19, 10:26 AM
+and its a sub task correct?
+
+John Wolfkamp 6/7/19, 10:26 AM
+we have not been keeping track of that 
+I think let me double check
+
+John Wolfkamp 6/7/19, 10:27 AM
+yup sub-task
+and then assign it to yourself and move it into progress
+You 6/7/19, 10:27 AM
+I want to create two sub tasks
+
+John Wolfkamp 6/7/19, 10:27 AM
+sure thing
+You 6/7/19, 10:27 AM
+one for core commons interface and one for implementation
+
+John Wolfkamp 6/7/19, 10:27 AM
+as many as you need 
+You 6/7/19, 10:28 AM
+and i actually want to keep the implementation through delegate like we discussed in our first call
+in future we may send this to Log Analytics or any other subsystem
+or even integrate with some platform that bank may have
+though we will stick to sys log for now
+
+John Wolfkamp 6/7/19, 10:29 AM
+agreed
+thats sounds perfect
+You 6/7/19, 1:36 PM
+Identity of accessing system - what is this
+
+John Wolfkamp 6/7/19, 1:36 PM
+I think hostname of the caller
+
+John Wolfkamp 6/7/19, 1:38 PM
+o you mean
+The identity of the account accessing the system
+that should be the User Identity of who started initated the call
+(if one exists)
+
+John Wolfkamp 6/7/19, 2:05 PM
+Did some research syslog will likely take care of that for you by logging the linux User ID owner of the PID
+You 6/7/19, 2:06 PM
+ok
+Tuesday
+You Tuesday, 4:01 PM
+Good afternoon John
+
+John Wolfkamp Tuesday, 4:01 PM
+Hey Good Afternoon! I was just writing an email to you and please know that family comes first
+you have my thoughts and well wishes 
+You Tuesday, 4:02 PM
+Yes John. My ex wife had to be at work. I had no other choice. but i assure you to catch up and work on it all evening today
+
+John Wolfkamp Tuesday, 4:02 PM
+no worries at all 
+You Tuesday, 4:02 PM
+did we get an answer on where to send the log
+
+John Wolfkamp Tuesday, 4:02 PM
+I only sent a message because both Ramesh and I began to worry
+yup I had a meeting with Joe H. today
+You Tuesday, 4:02 PM
+i will have this done this evening and checked in
+
+John Wolfkamp Tuesday, 4:03 PM
+we are going to not worry about what they are doing as they are using Aspect Oriented Programming to do their logged
+which is incompatible with us
+but I do have an answer for you
+You Tuesday, 4:03 PM
+sure
+who are ‘they'
+another team is working on same thing?
+
+John Wolfkamp Tuesday, 4:03 PM
+The UI team
+kinda
+You Tuesday, 4:03 PM
+i can provide them an annotation on top of this as well
+
+John Wolfkamp Tuesday, 4:04 PM
+they are… doing their own thing… there seem to be some politics involved that I didnt want to deal with
+so in short we are going to let them be them and build this for the rest of the microservices to us
+use*
+its in my email I am writing but its pretty simple
+First we need to have a logback-spring.xml file 
+you can find one in cwm-data-service under its resource folder
+we can use that one exactly
+but the important part of it is this:
+You Tuesday, 4:05 PM
+sure
+
+John Wolfkamp Tuesday, 4:05 PM
+<appender name="SYSLOG"
+class="ch.qos.logback.classic.net.SyslogAppender">
+<syslogHost>${REMOTE_HOME}</syslogHost>
+<facility>${FACILITY}</facility>
+<port>${PORT}</port>
+<suffixPattern>[%thread] %logger %msg</suffixPattern>
+</appender>
+
+<appender name="ASYNC_SYSLOG"
+class="ch.qos.logback.classic.AsyncAppender">
+<appender-ref ref="SYSLOG" />
+<neverBlock>true</neverBlock>
+<includeCallerData>false</includeCallerData>
+<queueSize>500</queueSize>
+<discardingThreshold>0</discardingThreshold>
+<maxFlushTime>1000</maxFlushTime>
+</appender>
+from there we can then use a LogginFactory to get the SYSLOG instance
+You Tuesday, 4:06 PM
+ok sure
+can you explain how this works underneath
+so i can refer to the data service and they have the sample
+
+John Wolfkamp Tuesday, 4:07 PM
+Sure thing I assume they are just using the root logger but let me check their code real quick
+
+John Wolfkamp Tuesday, 4:09 PM
+Ok so its actually very simple
+if you include that xml file under your own config/resources directly
+it will configure the underlying logger context for you (it being spring)
+then if you just get the logger from the factory:
+private static final Logger LOGGER = LoggerFactory.getLogger(MyServiceImpl.class);
+like that
+You Tuesday, 4:10 PM
+got it
+
+John Wolfkamp Tuesday, 4:10 PM
+and you call any logging method:
+LOGGER.trace("doStuff needed more information - {}", value);
+LOGGER.debug("doStuff needed to debug - {}", value);
+LOGGER.info("doStuff took input - {}", value);
+LOGGER.warn("doStuff needed to warn - {}", value);
+LOGGER.error("doStuff encountered an error with value - {}", value);
+You Tuesday, 4:10 PM
+when i run locally where do i look for the logs
+
+John Wolfkamp Tuesday, 4:10 PM
+it will then use the appenders set up in the xml file
+are you on OSX?
+if so it should be /var/log/system.log
+if windows… I am not sure
+You Tuesday, 4:11 PM
+sure let me run this
+im in OSX
+
+John Wolfkamp Tuesday, 4:11 PM
+ok coo
+cool*
+let me know if you need anything I am happy to help
+You Tuesday, 4:12 PM
+i am hoping when we start tomorrow i have the code checked in and ready to demo
+if not i will tap you 🙂
+but i hope to wrap it
+
+John Wolfkamp Tuesday, 4:12 PM
+sounds good, I should be around
+
+John Wolfkamp Tuesday, 4:15 PM
+this is a really slick piece of code too
+it lets you add remote syslog servers in realtime to your appenders
+
+John Wolfkamp Tuesday, 4:15 PM
+
+https://github.com/rsjorslev/spring-boot-logback-syslog/blob/master/src/main/java/com/example/controller/SyslogServerController.java
+
+John Wolfkamp Tuesday, 4:16 PM
+We don’t need to do that but its pretty neat none the less and you might want to see what they have done with it
+You Tuesday, 4:16 PM
+i am on osx
+sure i will
+Wednesday
+You Wednesday, 8:24 AM
+Have some issue starting up oauth server since taking latest this morning.
+may i take your help to have a look
+You Wednesday, 9:16 AM
+ keytool -genkey -alias tomcat -keyalg RSA -keysize 2048  -validity 700 -keypass configServer -storepass configServer -keystore ssl-server.jks
+where does the jks file go
+
+John Wolfkamp Wednesday, 9:29 AM
+you shouldnt have to generate one unless something has changed without me knowning
+they are already part of the build and you installed the generated one within your trust store a while back
+hopefully if we can get through this planning meeting quickly I can take a look after that
+You Wednesday, 9:30 AM
+yes talking to suhas to see why i get this issue
+it was fine till yesterday
+You Wednesday, 11:01 AM
+John going forward I will let you do my estimation 🙂
+I trust your estimates
+
+John Wolfkamp Wednesday, 11:06 AM
+haha no worries
+Yesterday
+You Yesterday, 11:12 AM
+Will you have 30 mts this afternoon to go over my tickets for next sprint?
+
+John Wolfkamp Yesterday, 11:14 AM
+yup
+I can Either do 1:00 or 2:00
+You Yesterday, 11:14 AM
+either works for me
+
+John Wolfkamp Yesterday, 11:16 AM
+Lets plan for 2:00 in case we need more than 30 mins
+I have a meeting at 1:30 so I wouldnt be able to go longer if we did 1:00
+You Yesterday, 11:19 AM
+yes sure
+
+John Wolfkamp Yesterday, 11:19 AM
+My Calander is being strange but I think I just sent the invite
+You Yesterday, 11:22 AM
+actually can we do 2:30?
+I am sorry for the change request
+
+John Wolfkamp Yesterday, 11:23 AM
+sure thats fine
+You Yesterday, 2:29 PM
+I have 6114,6115,6123,6124
+Today
+You 10:39 AM
+John may you send the recording 🙂
+
+John Wolfkamp 10:40 AM
+I sent it last night
+At least I think i did let me double check
+You 10:40 AM
+oh sorry 🙂
+
+John Wolfkamp 10:40 AM
+No worries it was super late
+the recording took a long time to come in
+around 6:30 PM yesterday
+if you did not get it I can send it again
+You 10:42 AM
+i have it 🙂
+
+John Wolfkamp 10:43 AM
+Cool!
