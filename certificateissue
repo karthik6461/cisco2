@@ -1,3 +1,95 @@
+  COURSE OF ACTION
+  
+  1) TOP section in config-server/configs/application.yml
+  
+  server:
+  ssl:
+    key-alias: tomcat
+    key-password: changeit
+    key-store-password: changeit
+    key-store: config/ssl-server.jks
+    key-store-type: JKS
+
+logging:
+  level:
+    com.cisco.cadi.epsilon: INFO
+
+spring:
+  zipkin:
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+  jpa:
+    database: oracle
+    database-platform: org.hibernate.dialect.Oracle10gDialect
+    properties:
+      hibernate.jdbc.batch_size: 5000
+      hibernate.default_schema: cwm_dev_03
+      hibernate.order_inserts: true
+  datasource:
+    platform: oracle
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@10.126.80.44:1521/orcl.cisco.com
+    username: cwm_user  
+    password: Cwm123$
+    
+    
+    2) Bootstrap.yml
+    
+    #Server port
+server:
+    port: 8888
+    ssl:
+      key-alias: tomcat
+      key-password: changeit
+      key-store: config/ssl-server.jks
+      key-store-type: JKS
+
+#Git repo location.
+
+encrypt:
+    key: abcdef
+
+spring:
+    profiles:
+        active: native
+   
+    cloud:
+       config:
+           server:
+             native:
+                  searchLocations: file:${user.dir}/configs
+    
+             encrypt:
+                    enabled: true
+                    
+                    
+       3) configs/oauth-server.yml
+       
+       keypass: changeit
+       
+       
+       4) COPY ssl-server.jks from desktop into each microservice's config folder
+       cp ~/Desktop/ssl-server.jks config-server/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks registry/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks oauth-server/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cwm-southbound-gateway/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cwm-data-service/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cucm-data-service/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cucm-sync-service/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cuc-sync-service/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cuc-data-service/config/ssl-server.jks
+  
+  
+  
+  
+  
+  
+  
+  WTF DID WE DO TO FIX
+  
   503  keytool -list -v -keystore cacerts -storepass configServer
   504   keytool -list -v -keystore cacerts -storepass configServer
   505   keytool -list -v -keystore cacerts -storepass changeit
