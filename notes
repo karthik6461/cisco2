@@ -242,3 +242,12 @@ spring:
     url: jdbc:oracle:thin:@10.126.80.44:1521/orcl.cisco.com
     username: cwm_user  
     password: Cwm123$
+    
+    
+    
+    VMs properties are:
+VM1: 10.56.134.80
+VM2: 10.56.134.81
+VM3: 10.56.134.82
+ 
+HSM simulator is running on port 34567, and its configured with OAuth 2 server running on 10.122.32.131.
