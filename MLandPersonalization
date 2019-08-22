@@ -1,0 +1,22 @@
+1) You can make a copy of this and work .. It is mostly done. But you can understand this for future changes.
+
+https://eastus.azuredatabricks.net/?o=4627598043844726#notebook/1660825336044349/command/1660825336044641
+
+
+2) It is based on this notebook
+
+https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html
+
+
+
+admkkaruppasamy@jetblue.com
+CloudIQJul!#2019@
+
+It will ask for a 6 digit code when you login and I can text you back.
+
+
+What does the notebook do?
+
+1) There is a table 'mintupgradeview' that contains all possible factors that may help in identifying customers who are highly likely to accept an offer for upgrades should we send them one
+
+[Upgrades - economy class to first class upgrades .. We are trying to identify small set of customers who have a reservation in a flight route who are more likely interested in buying the upgrade]
