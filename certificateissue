@@ -81,6 +81,7 @@ cp ~/Desktop/ssl-server.jks cucm-data-service/config/ssl-server.jks
 cp ~/Desktop/ssl-server.jks cucm-sync-service/config/ssl-server.jks
 cp ~/Desktop/ssl-server.jks cuc-sync-service/config/ssl-server.jks
 cp ~/Desktop/ssl-server.jks cuc-data-service/config/ssl-server.jks
+cp ~/Desktop/ssl-server.jks cwm-security/config/ssl-server.jks
   
   
   
