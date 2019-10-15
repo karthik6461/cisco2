@@ -10,6 +10,54 @@ kkaruppasamy@gci2
 Sokolova$78
 
 
+=============================================================================
+
+HSM OAUTH:
+
+OAuth2
+
+Token Name
+
+CWMOAUTH2TOKEN
+
+Token type
+
+Client Credentials
+
+Access URL 
+
+http://10.122.32.131:9000/oauth2/token
+
+Client ID
+
+some-consumer
+
+Client Secret
+
+some-secret
+
+scope - Leave empty
+
+Client Authentication
+
+Send as Basic Auth Header
+
+=============================================================================
+
+
+
+
+CWM OAUTH:
+
+https://localhost:9090/oauth/token
+clientId/secret
+grant_type -> client_credentials
+Type - Oauth 2
+
+=============================================================================
+
+
+
 
 
 config, registry, oauth, then data
