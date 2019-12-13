@@ -1,0 +1,89 @@
+server:
+  ssl:
+    key-alias: tomcat
+    key-password: changeit
+    key-store-password: changeit
+    key-store: config/ssl-server.jks
+    key-store-type: JKS
+
+logging:
+  level:
+    com.cisco.cadi.epsilon: INFO
+
+spring:
+  zipkin:
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+  jpa:
+    database: oracle
+    database-platform: org.hibernate.dialect.Oracle10gDialect
+    properties:
+      hibernate.jdbc.batch_size: 5000
+      hibernate.default_schema: CWM_UI_SCHEMA
+      hibernate.order_inserts: true
+  datasource:
+    platform: oracle
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@10.126.80.44:1521/orcl.cisco.com
+    username: CWM_UI_SCHEMA  
+    password: CWM_UI_SCHEMA
+security:
+  oauth2:
+    client:
+      client-id: clientId
+      client-secret: secret
+      access-token-uri: https://localhost:9090/oauth/token
+      scope: api:read,api:write
+      authentication-scheme: header
+    resource:
+      jwt:
+        keyUri: https://localhost:9090/oauth/token_key
+cwm:
+  rabbitmq:
+      message-queue: false
+      cucm-queue: CUCM-SYNC-Q
+      cuc-queue: CUC-SYNC-Q
+      exchange: SYNC-PROCESS
+      cucm-routingkey: CUCM-SYNC
+      cuc-routingkey: CUC-SYNC
+      catalogAsyncQueue: CATALOG-ASYNC-REQUEST.Q
+      catalogAsyncExchange: CATALOG-ASYNC-REQUEST.X
+      catalogAsyncRouteKey: CATALOG-ASYNC-REQUEST
+
+authentication:
+  basic:
+    username: admin
+    password: $2a$10$tPTmyVTLoi92MuYo33.u6elUiDN6JRS1W9SewkAt8qYg89PTzPKl.
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: https://localhost:8761/eureka/
+  instance:
+    hostname: localhost
+    nonSecurePortEnabled: false
+    securePortEnabled: true
+    health-check-url-path: ${server.servlet.context-path}/actuator/health
+security-features:
+  encryptionEnbaled: false
+  blockOnFail: false
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+      base-path: /actuator
+    enabled-by-default: true
+  endpoint:
+    health:
+      show-details: always
+ucdt:
+  connection:
+    hostname: localhost
+    port: 8443
+    username: superadmin
+    password: null
+localDbReadMilliSecond: 60000
+sorDataRequest: 1000
