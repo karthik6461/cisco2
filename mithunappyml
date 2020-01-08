@@ -1,0 +1,58 @@
+server:
+  ssl:
+    key-alias: tomcat
+    key-password: changeit
+    key-store-password: changeit
+    key-store: config/ssl-server.jks
+    key-store-type: JKS
+
+logging:
+  level:
+    com.cisco.cadi.epsilon: INFO
+
+spring:
+  zipkin:
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+  jpa:
+    database: oracle
+    database-platform: org.hibernate.dialect.Oracle10gDialect
+    properties:
+      hibernate.jdbc.batch_size: 5000
+      hibernate.default_schema: mithun_ctm
+      hibernate.order_inserts: true
+  datasource:
+    platform: oracle
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@10.126.80.44:1521:orcl
+    username: mithun_ctm  
+    password: pass123
+
+security:
+  oauth2:
+    client:
+      client-id: clientId
+      client-secret: secret
+      access-token-uri: https://localhost:9090/oauth/token
+      scope: api:read,api:write
+      authentication-scheme: header
+    resource:
+      jwt:
+        # Request jwt to fetch the public key from the authorization server during startup
+        keyUri: https://localhost:9090/oauth/token_key
+
+cwm:
+  rabbitmq:
+      message-queue: true
+      cucm-queue: CUCM-SYNC-Q
+      cuc-queue: CUC-SYNC-Q
+      exchange: SYNC-PROCESS
+      cucm-routingkey: CUCM-SYNC
+      cuc-routingkey: CUC-SYNC
+      phonetest-queue: CWM.PHONE-TEST-Q
+      phonetest-exchange: PHONE-TEST-XCHNG-TEST
+      phonetest-routingkey: PHONE-TEST-RKEY-TEST
+      
