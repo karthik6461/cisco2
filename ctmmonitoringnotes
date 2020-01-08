@@ -1,0 +1,7 @@
+test plan     ->    test case(s)
+
+
+eg. test jan  et. outbound all failed
+
+
+test plans have test cases .. test plan case will be run as part of many test case run IDs. for each test case pull last successful run time
